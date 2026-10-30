@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS Voice Assistant",
+  "description": "Advanced futuristic voice assistant featuring reactive 3D HUD canvas orb, Gemini AI reasoning, voice barge-in, system automations, memory database, WorkManager power monitor, and multimodal vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
